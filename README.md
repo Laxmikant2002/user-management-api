@@ -23,7 +23,7 @@ This project is a simple User Management API built using Node.js, Express, and M
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone git@github.com:Laxmikant2002/user-management-api.git
    ```
 
 2. Navigate to the project directory:
